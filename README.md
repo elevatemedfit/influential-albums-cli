@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+This CLI allows the user to scrape [most influential albums](https://www.rollingstone.com/interactive/most-groundbreaking-albums-of-all-time/) and gives them the information about their selected album.
 
 ## Development
 
